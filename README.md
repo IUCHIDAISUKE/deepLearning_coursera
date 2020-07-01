@@ -12,5 +12,5 @@ This repository contains all my work for this specialization.
 
 - Course 1: Neural Networks and Deep Learning
 
-  - [Week 2 - Practice Programming Assignment: Python Basics with numpy (optional)]()
-  - [Week 2 - Programming Assignment: Logistic Regression with a Neural Network mindset]()
+  - [Week 2 - Practice Programming Assignment: Python Basics with numpy (optional)](https://github.com/IUCHIDAISUKE/deepLearning_coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Python_Basics_With_Numpy.ipynb)
+  - [Week 2 - Programming Assignment: Logistic Regression with a Neural Network mindset](https://github.com/IUCHIDAISUKE/deepLearning_coursera/blob/master/Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
